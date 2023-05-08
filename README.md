@@ -11,6 +11,7 @@ Uses LaTeX for high-quality typesetting
 Easy to use and modify
 Requirements
 To use this template, you must have LaTeX installed on your computer. If you don't have it already, you can download it for free from LaTeX Project.
+or just Use overleaf.com .
 
 Usage: 
 
